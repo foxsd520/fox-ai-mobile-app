@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Fox AI Mobile",
+    "slug": "fox-ai-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.foxsd.foxaimobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#08111f"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.foxsd.foxaimobile"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fox-ai-mobile-app"
+      }
+    }
+  }
+}
